@@ -1,0 +1,28 @@
+{
+  "id": 0,
+  "name": "Power of Habits",
+  "author": "Charles Duhigg",
+  "publish_year": 2012,
+  "edition": "10th"
+}
+{
+  "id": 1,
+  "name": "Atomic Habits",
+  "author": "James Clear",
+  "publish_year": 2018,
+  "edition": "1st"
+}
+{
+  "id": 2,
+  "name": "48 Laws of Power",
+  "author": "Robert Greene",
+  "publish_year": 1998,
+  "edition": ""
+}
+{
+  "id": 3,
+  "name": "The Art of Seduction",
+  "author": "Robert Greene",
+  "publish_year": 2001,
+  "edition": ""
+}
